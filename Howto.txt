@@ -1,0 +1,25 @@
+Howto - Analyseur de protocoles réseau 'Offline'
+
+
+Avant de commencer, allez dans le dossier contenant le projet et 
+copiez y le fichier texte contenant les trames que vous voulez analysez.
+Pour lancer le programme, il y a deux méthodes. 
+
+Méthode 1: Utiliser le terminal 
+
+	a. Ouvrez un terminal si python n'est pas installé, installez le.
+	b. Allez dans le dossier contenant le projet 
+	c. Tapez dans la ligne de commande : py analyseur.py
+	d. Le programme vous demandera quel fichier considérer, tapez le nom du fichier sansguillemet, par exemple: test.txt
+	e. Une fenêtre graphique apparaîtra ainsi que le fichier "resultat.txt" qui contient l'analyse.
+	   Le fichier "resultat.txt" se trouvera dans le dossier contenant le projet.
+
+
+Méthode 2: Utiliser IDLE ou Spyder 
+
+	a. Ouvrez IDLE / Spyder
+	b. Dans IDLE / Spyder, ouvrez le fichier "analyseur.py" 
+	c. Exécuter le fichier avec la commande Run ou la touche F5
+	d. Le programme vous demandera quel fichier considérer, tapez le nom du fichier sans guillemet, par exemple: test.txt
+	e. Une fenêtre graphique apparatîra ainsi que le fichier "resultat.txt" qui contient l'analyse.
+	   Le fichier "resultat.txt" se trouvera dans le dossier contenant le projet. 
